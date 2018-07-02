@@ -1,0 +1,4 @@
+spring.data.mongodb:
+  host: localhost
+  prot: 27017
+  database: MER_DATA
